@@ -1,0 +1,369 @@
+{
+    "root":
+    [
+        {
+            "key": "0",
+            "data":{
+                "id":"6",
+                "agregats":"Chiffre d'Affaires = (1)+(2)+(3)+(4)+(5)",
+                "comptesSCF":70,
+                "moisD":100.28,
+                "moisF":100.28,
+                "evolutionval":500.30,
+                "evolutionpro":50,
+                "cumulD":700.20,
+                "cumulF":500.00,
+                "evolutionvallast":80.20,
+                "evolutionprolast":50
+            },
+            "children":[
+                {
+                    "key": "0-0",
+                    "data":{
+                        "id":"1",
+                        "AGREGATS":"Vente de Marchandises",
+                        "comptesSCF":70,
+                        "moisD":100.28,
+                        "moisF":100.28,
+                        "evolutionval":500.30,
+                        "evolutionpro":50,
+                        "cumulD":700.20,
+                        "cumulF":500.00,
+                        "evolutionvallast":80.20,
+                        "evolutionprolast":50,
+                        "children": []
+                    }
+                },
+                {
+                    "key": "0-1",
+                    "data":{
+                        "N":"2",
+                        "AGREGATS":"Ventes de produits finis et intermédiaires",
+                        "ComptesSCF":70,
+                        "MoisD":100.28,
+                        "MoisF":100.28,
+                        "Evolutionval":500.30,
+                        "Evolutionpro":50,
+                        "CumulD":700.20,
+                        "CumulF":500.00,
+                        "Evolutionvallast":80.20,
+                        "Evolutionprolast":50
+                    }
+                },
+                {
+                    "key": "0-2",
+                    "data":{
+                        "N":"3",
+                        "AGREGATS":"Vente de travaux",
+                        "ComptesSCF":70,
+                        "MoisD":100.28,
+                        "MoisF":100.28,
+                        "Evolutionval":500.30,
+                        "Evolutionpro":50,
+                        "CumulD":700.20,
+                        "CumulF":500.00,
+                        "Evolutionvallast":80.20,
+                        "Evolutionprolast":50
+                    }
+                },
+                {
+                    "key": "0-3",
+                    "data":{
+                        "N":"4",
+                        "AGREGATS":"Vente d'études",
+                        "ComptesSCF":70,
+                        "MoisD":100.28,
+                        "MoisF":100.28,
+                        "Evolutionval":500.30,
+                        "Evolutionpro":50,
+                        "CumulD":700.20,
+                        "CumulF":500.00,
+                        "Evolutionvallast":80.20,
+                        "Evolutionprolast":50
+                    }
+                },
+                {
+                    "key": "0-4",
+                    "data":{
+                        "N":"5",
+                        "AGREGATS":"Autres (703,708 et 709)",
+                        "ComptesSCF":70,
+                        "MoisD":100.28,
+                        "MoisF":100.28,
+                        "Evolutionval":500.30,
+                        "Evolutionpro":50,
+                        "CumulD":700.20,
+                        "CumulF":500.00,
+                        "Evolutionvallast":80.20,
+                        "Evolutionprolast":50
+                    }
+                }
+            ]
+        },
+        {
+            "key": "1",
+            "data": {
+                "N":"10",
+                "AGREGATS":"Production de la période = (6)+(7)+(8)+(9)",
+                "ComptesSCF":70,
+                "MoisD":100.28,
+                "MoisF":100.28,
+                "Evolutionval":500.30,
+                "Evolutionpro":50,
+                "CumulD":700.20,
+                "CumulF":500.00,
+                "Evolutionvallast":80.20,
+                "Evolutionprolast":50
+            },
+            "children":[
+                {
+                    "key": "1-0",
+                    "data":{
+                        "N":"6",
+                        "AGREGATS":"Chiffre d'Affaires réalisé au sein du Groupe (*)",
+                        "ComptesSCF":70,
+                        "MoisD":100.28,
+                        "MoisF":100.28,
+                        "Evolutionval":500.30,
+                        "Evolutionpro":50,
+                        "CumulD":700.20,
+                        "CumulF":500.00,
+                        "Evolutionvallast":80.20,
+                        "Evolutionprolast":50
+                    }
+                },
+                {
+                    "key": "1-0",
+                    "data":{
+                        "N":"7",
+                        "AGREGATS":"Production stockée ou déstockée",
+                        "ComptesSCF":70,
+                        "MoisD":100.28,
+                        "MoisF":100.28,
+                        "Evolutionval":500.30,
+                        "Evolutionpro":50,
+                        "CumulD":700.20,
+                        "CumulF":500.00,
+                        "Evolutionvallast":80.20,
+                        "Evolutionprolast":50
+                    }
+                },
+                {
+                    "key": "1-1",
+                    "data":{
+                        "N":"8",
+                        "AGREGATS":"Production immobilisée",
+                        "ComptesSCF":70,
+                        "MoisD":100.28,
+                        "MoisF":100.28,
+                        "Evolutionval":500.30,
+                        "Evolutionpro":50,
+                        "CumulD":700.20,
+                        "CumulF":500.00,
+                        "Evolutionvallast":80.20,
+                        "Evolutionprolast":50
+                    }
+                },
+                {
+                    "key": "1-2",
+                    "data":{
+                        "N":"9",
+                        "AGREGATS":"Subventions d'exploitation",
+                        "ComptesSCF":70,
+                        "MoisD":100.28,
+                        "MoisF":100.28,
+                        "Evolutionval":500.30,
+                        "Evolutionpro":50,
+                        "CumulD":700.20,
+                        "CumulF":500.00,
+                        "Evolutionvallast":80.20,
+                        "Evolutionprolast":50
+                    }
+                }
+            ]
+        },
+        {
+            "key": "2",
+            "data":{
+                        "N":"17",
+                        "AGREGATS":"Consommations de la période = (11)+(15)+(16)",
+                        "ComptesSCF":70,
+                        "MoisD":100.28,
+                        "MoisF":100.28,
+                        "Evolutionval":500.30,
+                        "Evolutionpro":50,
+                        "CumulD":700.20,
+                        "CumulF":500.00,
+                        "Evolutionvallast":80.20,
+                        "Evolutionprolast":50
+            },
+            "children":[
+                {
+                    "key": "2-0",
+                    "data":{
+                        "N":"11",
+                        "AGREGATS":"Consommations de la période = (11)+(15)+(16)",
+                        "ComptesSCF":70,
+                        "MoisD":100.28,
+                        "MoisF":100.28,
+                        "Evolutionval":500.30,
+                        "Evolutionpro":50,
+                        "CumulD":700.20,
+                        "CumulF":500.00,
+                        "Evolutionvallast":80.20,
+                        "Evolutionprolast":50
+                    }
+                },   
+                {
+                    "key": "2-1",
+                    "data":{
+                        "N":"12",
+                        "AGREGATS":"dont: Achats de marchandises vendues",
+                        "ComptesSCF":70,
+                        "MoisD":100.28,
+                        "MoisF":100.28,
+                        "Evolutionval":500.30,
+                        "Evolutionpro":50,
+                        "CumulD":700.20,
+                        "CumulF":500.00,
+                        "Evolutionvallast":80.20,
+                        "Evolutionprolast":50
+                    }
+                },   
+                {
+                    "key": "2-2",
+                    "data":{
+                        "N":"13",
+                        "AGREGATS":"            Matières premières",
+                        "ComptesSCF":70,
+                        "MoisD":100.28,
+                        "MoisF":100.28,
+                        "Evolutionval":500.30,
+                        "Evolutionpro":50,
+                        "CumulD":700.20,
+                        "CumulF":500.00,
+                        "Evolutionvallast":80.20,
+                        "Evolutionprolast":50
+                    }
+                }
+                ,   
+                {
+                    "key": "2-3",
+                    "data":{
+                        "N":"14",
+                        "AGREGATS":"            Achats d'études et de prestations de services",
+                        "ComptesSCF":70,
+                        "MoisD":100.28,
+                        "MoisF":100.28,
+                        "Evolutionval":500.30,
+                        "Evolutionpro":50,
+                        "CumulD":700.20,
+                        "CumulF":500.00,
+                        "Evolutionvallast":80.20,
+                        "Evolutionprolast":50
+                    }
+                }
+                    ,   
+                {
+                    "key": "2-4",
+                    "data":{
+                        "N":"15",
+                        "AGREGATS":"Services extérieurs",
+                        "ComptesSCF":70,
+                        "MoisD":100.28,
+                        "MoisF":100.28,
+                        "Evolutionval":500.30,
+                        "Evolutionpro":50,
+                        "CumulD":700.20,
+                        "CumulF":500.00,
+                        "Evolutionvallast":80.20,
+                        "Evolutionprolast":50
+                    }
+                }
+                    ,   
+                {
+                    "key": "2-5",
+                    "data":{
+                        "N":"16",
+                        "AGREGATS":"Autres services extérieurs",
+                        "ComptesSCF":70,
+                        "MoisD":100.28,
+                        "MoisF":100.28,
+                        "Evolutionval":500.30,
+                        "Evolutionpro":50,
+                        "CumulD":700.20,
+                        "CumulF":500.00,
+                        "Evolutionvallast":80.20,
+                        "Evolutionprolast":50
+                    }
+                }
+            ]
+        },
+        {
+            "key": "3",
+            "data": {
+                        "N":"18",
+                        "AGREGATS":"Valeur ajoutée = (10)-(17)",
+                        "ComptesSCF":70,
+                        "MoisD":100.28,
+                        "MoisF":100.28,
+                        "Evolutionval":500.30,
+                        "Evolutionpro":50,
+                        "CumulD":700.20,
+                        "CumulF":500.00,
+                        "Evolutionvallast":80.20,
+                        "Evolutionprolast":50
+            }
+        },
+        {
+            "key": "4",
+            "data": {
+                "N":"21",
+                "AGREGATS":"EBE = (18)-(19)-(20)",
+                "ComptesSCF":70,
+                "MoisD":100.28,
+                "MoisF":100.28,
+                "Evolutionval":500.30,
+                "Evolutionpro":50,
+                "CumulD":700.20,
+                "CumulF":500.00,
+                "Evolutionvallast":80.20,
+                "Evolutionprolast":50
+            },
+            "children":[
+                {
+                    "key": "4-0",
+                    "data":{
+                        "N":"19",
+                        "AGREGATS":"Charges de personnel",
+                        "ComptesSCF":70,
+                        "MoisD":100.28,
+                        "MoisF":100.28,
+                        "Evolutionval":500.30,
+                        "Evolutionpro":50,
+                        "CumulD":700.20,
+                        "CumulF":500.00,
+                        "Evolutionvallast":80.20,
+                        "Evolutionprolast":50
+                    }
+                },
+                {
+                    "key": "4-1",
+                    "data":{
+                        "N":"20",
+                        "AGREGATS":"Impôts, taxes et versements assimilés",
+                        "ComptesSCF":70,
+                        "MoisD":100.28,
+                        "MoisF":100.28,
+                        "Evolutionval":500.30,
+                        "Evolutionpro":50,
+                        "CumulD":700.20,
+                        "CumulF":500.00,
+                        "Evolutionvallast":80.20,
+                        "Evolutionprolast":50
+                    }
+                }
+            ]
+        }
+    ]
+}

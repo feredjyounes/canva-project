@@ -1,0 +1,96 @@
+[
+    {
+        "key": "1",
+        "data":{
+        "id": 1,
+        "agregats": "Parent 1",
+        "comptesSCF": 70.0,
+        "moisD": 100.28,
+        "moisF": 100.28,
+        "evolutionval": 500.3,
+        "evolutionpro": 50.0,
+        "cumulD": 700.2,
+        "cumulF": 500.0,
+        "evolutionvallast": 80.2,
+        "evolutionprolast": 50.0
+        },
+        "children": [
+            {
+                "id": 2,
+                "key": "2",
+                "agregats": "Chiffre d'Affaires 1 = (1)+(2)+(3)+(4)+(5)",
+                "comptesSCF": 70.0,
+                "moisD": 100.28,
+                "moisF": 100.28,
+                "evolutionval": 500.3,
+                "evolutionpro": 50.0,
+                "cumulD": 700.2,
+                "cumulF": 500.0,
+                "evolutionvallast": 80.2,
+                "evolutionprolast": 50.0,
+                "children": []
+            },
+            {
+                "id": 3,
+                "key": "3",
+                "agregats": "Chiffre d'Affaires 2 = (6)+(7)+(3)+(4)+(5)",
+                "comptesSCF": 70.0,
+                "moisD": 100.28,
+                "moisF": 100.28,
+                "evolutionval": 500.3,
+                "evolutionpro": 50.0,
+                "cumulD": 700.2,
+                "cumulF": 500.0,
+                "evolutionvallast": 80.2,
+                "evolutionprolast": 50.0,
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "key": "4",
+        "agregats": "Parent 2",
+        "comptesSCF": 70.0,
+        "moisD": 100.28,
+        "moisF": 100.28,
+        "evolutionval": 500.3,
+        "evolutionpro": 50.0,
+        "cumulD": 700.2,
+        "cumulF": 500.0,
+        "evolutionvallast": 80.2,
+        "evolutionprolast": 50.0,
+        "children": [
+            {
+                "id": 5,
+                "key": "5",
+                "agregats": "Chiffre d'Affaires 3 = (1)+(2)+(3)+(4)+(5)",
+                "comptesSCF": 70.0,
+                "moisD": 100.28,
+                "moisF": 100.28,
+                "evolutionval": 500.3,
+                "evolutionpro": 50.0,
+                "cumulD": 700.2,
+                "cumulF": 500.0,
+                "evolutionvallast": 80.2,
+                "evolutionprolast": 50.0,
+                "children": []
+            },
+            {
+                "id": 6,
+                "key": "6",
+                "agregats": "Chiffre d'Affaires 4 = (6)+(7)+(3)+(4)+(5)",
+                "comptesSCF": 70.0,
+                "moisD": 100.28,
+                "moisF": 100.28,
+                "evolutionval": 500.3,
+                "evolutionpro": 50.0,
+                "cumulD": 700.2,
+                "cumulF": 500.0,
+                "evolutionvallast": 80.2,
+                "evolutionprolast": 50.0,
+                "children": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+
+.treetable-editing-demo .p-treetable .p-treetable-tbody > tr > td.p-cell-editing {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.p-treetable .p-treetable-thead > tr > th{
+    padding: 0px !important;
+    border-width:0px 1px 1px 0px !important;
+    font-family: candara !important;
+    font-style: italic !important;
+    font-size: 18px !important;
+}
+.p-treetable .p-treetable-tbody > tr > td {
+    padding: 0px !important;
+    font-family: candara !important;
+    font-style: italic !important;
+    font-size: 18px !important;
+
+}
+h1{
+    font-family: candara !important;
+    color: #03045E;
+}
+h3{
+    font-family: candara !important;
+    font-style: bold !important;
+    color: #03045E;
+}
+.spanC{
+    font-style: italic !important;
+    color: #FB8500 !important;
+}
