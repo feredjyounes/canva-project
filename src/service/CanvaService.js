@@ -1,9 +1,9 @@
 
-export class NodeService {
+export class CanvaService {
 
-    getTreeTableNodes() {
+    getCanvas() {
         return fetch('http://localhost:8080/api/canva').then(res => res.json())
-                .then(d => d.root);
+                .then(d => d.data);
     }
 
     getTreeNodes() {
